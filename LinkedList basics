@@ -1,0 +1,17 @@
+Insert:
+Create a new node
+Assign a data next to the field
+Assign the head
+O(1)
+
+Delete:
+Assign a temp variable
+Assign a new head
+Return a temp variable
+O(1)
+
+Iterate:
+Assign a current node
+Make a while loop
+Check current node is null
+
